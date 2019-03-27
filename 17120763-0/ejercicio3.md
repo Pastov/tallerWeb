@@ -1,7 +1,9 @@
 - a.- Cantidad y nombre de los branches
+
   1 branch, de nombre Master
 
 - b.- Cantidad y nombre de las etiquetas
+
   ninguna etiqueta
 
 - c.- Nombre, mensaje y código hash de los últimos 3 commits
